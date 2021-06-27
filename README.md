@@ -31,5 +31,13 @@ npm run build
 npm run lint
 ```
 
+### Package for API
+```
+npm install axios
+```
+```
+npm install axios vue-axios
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,15 +1,14 @@
 <template>
-  <Home />
- 
+  <GetUser />
 </template>
 
 <script>
-import Home from "./components/Home.vue";
+import GetUser from "./components/GetUser.vue";
 
 export default {
   name: "App",
   components: {
-    Home,
+    GetUser,
   },
 };
 </script>
